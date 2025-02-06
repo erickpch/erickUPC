@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\erick\\program3\\repositorio\\proyecto1\\proyecto1.csproj": {}
+    "C:\\erick\\program3\\repositorio\\proyecto1.csproj": {}
   },
   "projects": {
-    "C:\\erick\\program3\\repositorio\\proyecto1\\proyecto1.csproj": {
+    "C:\\erick\\program3\\repositorio\\proyecto1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\erick\\program3\\repositorio\\proyecto1\\proyecto1.csproj",
+        "projectUniqueName": "C:\\erick\\program3\\repositorio\\proyecto1.csproj",
         "projectName": "proyecto1",
-        "projectPath": "C:\\erick\\program3\\repositorio\\proyecto1\\proyecto1.csproj",
+        "projectPath": "C:\\erick\\program3\\repositorio\\proyecto1.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\erick\\program3\\repositorio\\proyecto1\\obj\\",
+        "outputPath": "C:\\erick\\program3\\repositorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
